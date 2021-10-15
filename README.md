@@ -16,7 +16,7 @@ This project has been created with codecadamy.
 
 ## General info
 This project has been created via codecadamy. Check out the link below.
-Using a provided design spec, linked below, I am going to create a website that sells tea. (https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg "Design Specification")
+Using a provided design spec, linked below, I am going to create a website that sells tea. [Design Specification](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg "Design Specification")
 All the images are included. 
 
 ---    
