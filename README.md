@@ -2,6 +2,7 @@
 ---
 
 This project has been created with codecadamy. 
+[View the completed project here](https://scrumpyflea.github.io/TeaShop-/)
 
 --- 
 
